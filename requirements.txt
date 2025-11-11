@@ -1,0 +1,6 @@
+requests==2.32.3
+python-dateutil==2.9.0.post0
+pytz==2024.2
+python-dotenv==1.0.1
+# If you run the TUI monitor on Windows, install this too:
+windows-curses==2.4.0; platform_system == "Windows"
